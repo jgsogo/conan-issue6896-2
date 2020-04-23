@@ -7,5 +7,5 @@ int say(){
     #else
     std::cout << "Say Debug!" <<std::endl;
     #endif
-    return 42
+    return 42;
 }
