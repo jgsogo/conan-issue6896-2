@@ -1,3 +1,3 @@
 #pragma once
 
-void say();
+int say();
